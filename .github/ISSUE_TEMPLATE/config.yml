@@ -1,1 +1,5 @@
 blank_issues_enabled: false
+contact_links:
+  - name: Contact link
+    url: https://github.com/SvyatoslavScherbina/TestIssueTemplates
+    about: Do not create new issues
